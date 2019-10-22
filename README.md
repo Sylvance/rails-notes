@@ -4,18 +4,18 @@ Notes on knowledge of Ruby on Rails working parts.
 ## List of topics
 - [x] Notes Readme
 
-### Rails API
+### Rails API List
 - [ ] AbstractController
 - [ ] ActionCable
-- [ ] ActionController
+- [x] ActionController
 - [ ] ActionDispatch
 - [ ] ActionMailbox
 - [ ] ActionMailer
 - [ ] ActionText
 - [ ] ActionView
 - [ ] ActiveJob
-- [ ] ActiveModel
-- [ ] ActiveRecord
+- [x] ActiveModel
+- [x] ActiveRecord
 - [ ] ActiveStorage
 - [ ] ActiveSupport
 - [ ] LoggerSilence
