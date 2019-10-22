@@ -16,6 +16,12 @@ Notes on knowledge of Ruby on Rails working parts.
 - [ ] ActiveJob
 - [x] ActiveModel
 - [x] ActiveRecord
+    - [ ] Associations
+    - [x] Basics
+    - [ ] Callbacks
+    - [ ] Migrations
+    - [ ] Query interface
+    - [ ] Validations
 - [ ] ActiveStorage
 - [ ] ActiveSupport
 - [ ] LoggerSilence
